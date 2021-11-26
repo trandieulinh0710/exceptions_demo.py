@@ -1,6 +1,8 @@
-
-#print author's  name
-
+# print author's  name
 
 
-print(" lINH")
+def main():
+    print(" lINH")
+
+
+main()
