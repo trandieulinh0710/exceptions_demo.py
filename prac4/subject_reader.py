@@ -43,6 +43,4 @@ def display_data(data):
         print("{} is taught by {} and has {:.0f} students".format(blank[0], blank[1], blank[2]))
 
 
-
-
 main()

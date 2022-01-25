@@ -5,7 +5,7 @@ for i in range(5):
     numbers.append(number)
 print(f" the first number is: {numbers[0]}")
 print(f" the last number is: {numbers[4]}")
-print(f" the smallest number is {min(numbers)}")
+print(f"    the smallest number is {min(numbers)}")
 print(f" the largest number is {max(numbers)}")
 average = sum(numbers) / len(numbers)
 print(f" the average number is {average}")
